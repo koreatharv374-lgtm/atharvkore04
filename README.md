@@ -1,70 +1,161 @@
 # 👋 Hi, I'm Atharv Kore
 
-### 💻 Computer Engineering Student | Developer | Learner
+### 💻 Computer Engineering Student | Developer | Problem Solver
 
-Welcome to my GitHub profile! 🚀
+🚀 **Building with code • Learning new technologies • Solving problems**
 
-I'm a Computer Engineering student interested in **software development, web development, programming, and problem solving**. I enjoy learning new technologies and building practical projects.
-
----
-
-## 🛠️ Skills & Technologies
-
-* 💻 C / C++
-* ☕ Java
-* 🐍 Python
-* 🌐 HTML, CSS, JavaScript
-* 🔥 Flask
-* 🧠 Data Structures & Algorithms
-* 🤖 Machine Learning
-* 🗄️ SQL
-* 📊 NumPy, Pandas
+Welcome to my GitHub profile! I'm a Computer Engineering student interested in **software development, web development, Data Structures & Algorithms, and Machine Learning**.
 
 ---
 
-## 🚀 Projects
+## 🧑‍💻 About Me
 
-### 🎓 Smart Placement Portal
+🎓 Computer Engineering Student
+
+💻 Interested in **Software & Web Development**
+
+🧠 Practicing **Data Structures & Algorithms**
+
+🐍 Working with **Python**
+
+☕ Learning **Java**
+
+⚡ Practicing **C & C++**
+
+🌐 Building websites using **HTML, CSS & JavaScript**
+
+🔥 Developing web applications using **Flask**
+
+🤖 Exploring **Machine Learning & Artificial Intelligence**
+
+📊 Working with **NumPy, Pandas & Matplotlib**
+
+🗄️ Learning **SQL & Databases**
+
+🚀 Building practical projects and improving my coding skills
+
+---
+
+# 🛠️ Skills & Technologies
+
+### 💻 Programming
+
+`C` • `C++` • `Java` • `Python`
+
+### 🌐 Web Development
+
+`HTML` • `CSS` • `JavaScript` • `Flask`
+
+### 🤖 AI & Machine Learning
+
+`Machine Learning` • `Artificial Intelligence` • `ANN` • `RNN` • `Deep Learning`
+
+`TensorFlow` • `Keras` • `NumPy` • `Pandas` • `Matplotlib`
+
+### 🧩 Data Structures & Algorithms
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
+
+`Searching` • `Sorting` • `Recursion` • `Dynamic Programming`
+
+`Greedy Algorithms` • `Backtracking` • `Trees` • `Graphs`
+
+### 🗄️ Database
+
+`SQL` • `MySQL`
+
+### ⚙️ Tools
+
+`Git` • `GitHub` • `VS Code` • `Google Colab`
+
+---
+
+# 🚀 Projects
+
+## 🎓 Smart Placement Portal
 
 A Flask-based web application designed to help students prepare for placements.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript
+**Technologies:**
+`Python` • `Flask` • `HTML` • `CSS` • `JavaScript`
 
-### 🍎 Smart Food Waste Marketplace
+---
+
+## 🍎 Smart Food Waste Marketplace
 
 A web project focused on connecting food providers with people who can make use of surplus food.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:**
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
-## 📚 Currently Learning
+# 🧩 LeetCode
 
-* Data Structures & Algorithms
-* Web Development
-* Python & Flask
-* Machine Learning
-* Git & GitHub
-* Problem Solving
+I regularly practice **Data Structures & Algorithms** and solve coding problems to improve my problem-solving skills.
 
----
+<div align="center">
 
-## 🎯 Goals
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-* Build useful real-world projects
-* Improve my programming skills
-* Solve coding problems regularly
-* Learn modern development technologies
-* Contribute to open-source projects
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-* 💻 GitHub: **Your GitHub Profile**
-* 🔗 LinkedIn: "https://www.linkedin.com/feed/"
-  
+* 🧠 Artificial Intelligence & Machine Learning
+* 🤖 Neural Networks & Deep Learning
+* 💻 Data Structures & Algorithms
+* 🌐 Web Development
+* 🐍 Python & Flask
+* ☕ Java
+* 🗄️ SQL & Databases
+* 🚀 Building Real-World Projects
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🎯 My Goals
+
+* 🚀 Build useful real-world projects
+* 💻 Improve my programming skills
+* 🧩 Solve coding problems regularly
+* 🤖 Learn more about AI & Machine Learning
+* 🌐 Improve my web development skills
+* 🌟 Contribute to open-source projects
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Atharv%20Kore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Atharv%20Kore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Atharv%20Kore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Coding 🚀**
+
+</div>
