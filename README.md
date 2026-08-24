@@ -140,7 +140,7 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Kore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/atharvak4/">
 <img src="https://img.shields.io/badge/LeetCode-Atharv%20Kore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
