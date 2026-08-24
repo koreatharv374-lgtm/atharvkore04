@@ -96,7 +96,7 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME/](https://leetcode.com/u/atharvak4/)">
 <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
