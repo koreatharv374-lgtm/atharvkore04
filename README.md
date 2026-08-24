@@ -62,7 +62,8 @@ A web project focused on connecting food providers with people who can make use 
 ## 📫 Connect With Me
 
 * 💻 GitHub: **Your GitHub Profile**
-* 🔗 LinkedIn: **Your LinkedIn Profile**
+* 🔗 LinkedIn: "https://www.linkedin.com/feed/"
+  
 
 ---
 
