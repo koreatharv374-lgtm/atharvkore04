@@ -136,7 +136,7 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 <img src="https://img.shields.io/badge/GitHub-Atharv%20Kore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/atharv-kore-b322b536a/">
 <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Kore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
