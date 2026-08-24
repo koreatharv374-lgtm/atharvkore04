@@ -132,7 +132,7 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/koreatharv374-lgtm">
 <img src="https://img.shields.io/badge/GitHub-Atharv%20Kore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -144,7 +144,7 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 <img src="https://img.shields.io/badge/LeetCode-Atharv%20Kore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
